@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="git@github.com:aidigitaldevices-aosp" name="aidigital"/>
+  <project name="device_aidigital_aiphone" path="device/aidigital/aiphone" remote="aidigital" revision="master"/>
+</manifest>
